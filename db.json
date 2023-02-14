@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Potato",
+      "price": "200",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "name": "Tomato",
+      "price": "200",
+      "quantity": "2",
+      "id": 2
+    },
+    {
+      "name": "Teenday",
+      "price": "150",
+      "quantity": "2",
+      "id": 3
+    },
+    {
+      "name": "Banana",
+      "price": "150",
+      "quantity": "12",
+      "id": 4
+    }
+  ]
+}
